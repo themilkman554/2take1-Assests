@@ -1,0 +1,1 @@
+Put Dorothy.ini in \AppData\Roaming\PopstarDevs\2Take1Menu\ui The gif header in the headers folder and the font in the font folder you know the drill by now yea?
